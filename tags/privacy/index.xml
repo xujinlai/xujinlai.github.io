@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/tags/privacy/</link>
+    <description>Recent content in privacy on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PADS</title>
+      <link>http://jinlaixu.net/project/pads/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/pads/</guid>
+      <description>Overview PADS is a strategy-proof differentially private auction mechanism designed to allow cloud providers to trade resources with consumers in such a way that individual bidding information of the consumers do not get exposed through the auction mechanism. PADS provides differential privacy and approximate truthfulness guarantees while maintaining good performance in terms of revenue earned and allocation efficiency.
+What is the challenge?  Protect Each User&amp;rsquo;s Bidding Information through the Auctioning Mechanism.</description>
+    </item>
+    
+  </channel>
+</rss>

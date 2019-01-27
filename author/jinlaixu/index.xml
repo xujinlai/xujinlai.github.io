@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/author/jinlaixu/</link>
+    <description>Recent content on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    
+	<atom:link href="http://jinlaixu.net/author/jinlaixu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://jinlaixu.net/author/jinlaixu/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/author/jinlaixu/about/</guid>
+      <description>Jinlai Xu is a PhD student of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Computer Vision and Robotics. His current advisor is Balaji Palanisamy.
+Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is Zhongwen Luo.
+Full Curriculum Vitae</description>
+    </item>
+    
+  </channel>
+</rss>

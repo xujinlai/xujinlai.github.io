@@ -1,0 +1,44 @@
+.jumbotron p {
+  font-size: inherit !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.btn-intro {
+  background-color: #03A9F4;
+  border-color: #00E5FF;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.btn-intro:hover,
+.btn-intro:active,
+.btn-intro:focus {
+  background-color: #0288D1;
+  color: #fff;
+}
+
+#top article div div.article-style pre {
+color: #4d4d4d;
+background: #f8f8f8;
+padding: 0 0em;
+border: 0px solid #d8d8d8;
+border-radius: 3px 3px;
+position: relative;
+top: -2px;
+margin: 0 3px;
+box-shadow: 2px 2px 0 #999;
+}
+
+#profile .portrait {
+  width: 200px;
+  height: 250px;
+  margin: 0 auto;
+  border-radius: 3%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+

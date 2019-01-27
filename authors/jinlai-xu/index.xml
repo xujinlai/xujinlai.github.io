@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinlai Xu on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/authors/jinlai-xu/</link>
+    <description>Recent content in Jinlai Xu on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/authors/jinlai-xu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimized Contract-based Model for Resource Allocation in Federated Geo-distributed Clouds</title>
+      <link>http://jinlaixu.net/publication/contract-tsc-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/publication/contract-tsc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PADS: Privacy-preserving Auction Design forAllocating Dynamically Priced Cloud Resources</title>
+      <link>http://jinlaixu.net/publication/pads-2017/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/publication/pads-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-aware Resource Management for Federated Clouds Using Resource Sharing Contracts</title>
+      <link>http://jinlaixu.net/publication/contract-cloud-2017/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/publication/contract-cloud-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zenith: Utility-aware Resource Allocation for Edge Computing</title>
+      <link>http://jinlaixu.net/publication/zenith-edge-2017/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/publication/zenith-edge-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEMoMR: Accelerate MapReduce via reuse of intermediate results</title>
+      <link>http://jinlaixu.net/publication/memomr-ccpe/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/publication/memomr-ccpe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

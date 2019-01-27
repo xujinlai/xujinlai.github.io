@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/post/</link>
+    <description>Recent content in Posts on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Move to Hugo</title>
+      <link>http://jinlaixu.net/post/move-to-hugo/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/post/move-to-hugo/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;I have moved my homepage to &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; which I think is the fastest static website generator.
+On the other hand, I like the theme - &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Acadmic&lt;/a&gt; which is best for the persons who like me is in academia.&lt;/p&gt;
+
+&lt;p&gt;However, there is one problem that Hugo can not be automatically generated as Jekyll in Github Page.
+I referred to the solution which is provided by the author of Acadmic &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to use &lt;a href=&#34;http://www.wercker.com/&#34; target=&#34;_blank&#34;&gt;Wercker&lt;/a&gt; to automatically generate the pages from source files to HTML.
+The processes are as below.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>edge on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/tags/edge/</link>
+    <description>Recent content in edge on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zenith</title>
+      <link>http://jinlaixu.net/project/zenith/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/zenith/</guid>
+      <description>Overview In the Internet of Things(IoT) era, the demands for low-latency computing for time-sensitive applications (e.g., location-based augmented reality games, real-time smart grid management, real-time navigation using wearables) has been growing rapidly. Edge Computing provides an additional layer of infrastructure to fill latency gaps between IoT devices and the backend computing infrastructure.
+Zenith decouples resource allocation and service provisioning and management at the edge and provides a novel model to allocate resources at the edge to maximize utility.</description>
+    </item>
+    
+  </channel>
+</rss>

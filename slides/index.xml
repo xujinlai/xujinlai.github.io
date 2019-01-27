@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/slides/</link>
+    <description>Recent content in Slides on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    
+	<atom:link href="http://jinlaixu.net/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slides</title>
+      <link>http://jinlaixu.net/slides/example-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/slides/example-slides/</guid>
+      <description>Welcome to Slides Academic
+Features  Efficiently write slides in Markdown 3-in-1: Create, Present, and Publish your slides Supports speaker notes Mobile friendly slides  Controls  Next: Right Arrow or Space Previous: Left Arrow Start: Home Finish: End Overview: Esc Speaker notes: S Fullscreen: F Zoom: Alt + Click PDF Export: E  Code Highlighting Inline code: variable
+Code block:
+porridge = &amp;quot;blueberry&amp;quot; if porridge == &amp;quot;blueberry&amp;quot;: print(&amp;quot;Eating...&amp;quot;)  Math In-line math: $x + y = z$</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/tags/cloud/</link>
+    <description>Recent content in cloud on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contracts Federated Cloud</title>
+      <link>http://jinlaixu.net/project/contracts/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/contracts/</guid>
+      <description>Overview We develop a new contracts-based resource sharing model for federated geo-distributed clouds that allows cloud service providers to establish contractual relationships with individual datacenters for defined time intervals. Based on the established contracts, individual cloud service providers employ a cost-aware job scheduling and provisioning algorithm that enables tasks to complete and meet their response time requirements.
+What is the challenge?  How to decide Resource Sharing Contracts guaranteeing both Fairness and Efficiency?</description>
+    </item>
+    
+    <item>
+      <title>PADS</title>
+      <link>http://jinlaixu.net/project/pads/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/pads/</guid>
+      <description>Overview PADS is a strategy-proof differentially private auction mechanism designed to allow cloud providers to trade resources with consumers in such a way that individual bidding information of the consumers do not get exposed through the auction mechanism. PADS provides differential privacy and approximate truthfulness guarantees while maintaining good performance in terms of revenue earned and allocation efficiency.
+What is the challenge?  Protect Each User&amp;rsquo;s Bidding Information through the Auctioning Mechanism.</description>
+    </item>
+    
+  </channel>
+</rss>
